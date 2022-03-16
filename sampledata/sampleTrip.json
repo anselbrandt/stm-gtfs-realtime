@@ -1,0 +1,26 @@
+{
+  "id": "39077",
+  "properties": {
+    "trip": {
+      "tripId": "241101902",
+      "startTime": "22:17:00",
+      "startDate": "20220313",
+      "routeId": "33"
+    },
+    "position": {
+      "latitude": 45.57814025878906,
+      "longitude": -73.51741790771484,
+      "bearing": 296,
+      "speed": 12.500100135803223
+    },
+    "currentStopSequence": 7,
+    "currentStatus": "IN_TRANSIT_TO",
+    "timestamp": "1647224373",
+    "vehicle": {
+      "id": "39077"
+    },
+    "occupancyStatus": "MANY_SEATS_AVAILABLE"
+  },
+  "path": [[-73.51741790771484, 45.57814025878906]],
+  "timestamps": [1647224373]
+}

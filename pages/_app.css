@@ -1,0 +1,7 @@
+[class] {
+  outline: 1px solid transparent;
+}
+
+a[target="_excalidraw_libraries"] {
+  display: none;
+}
